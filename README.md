@@ -1,6 +1,6 @@
 # Well-rounded Ideal Lattices of Quadratic Fields
 
-This is the implementation that classifies the well-rounded (WR) ideal lattices of real and imaginary quadratic fields, enumerates the fields that contain them, and reproduces the experimental findings of our research including tables and figures.
+This is the implementation that classifies the well-rounded (WR) ideal lattices of real and imaginary quadratic fields, enumerates the fields that contain them, and reproduces the experimental findings of our research.
 
 ## Requirements
 Python 3.10, NumPy, and Matplotlib. All arithmetic is exact integer arithmetic, and no floating point enters any reported count.
