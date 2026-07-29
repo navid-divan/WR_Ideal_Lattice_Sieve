@@ -1,0 +1,4 @@
+task,method,size,peak_bytes
+range,sieve,10000000,40000556
+range,spf,1000000,4833917
+range,divscan,10000,168
